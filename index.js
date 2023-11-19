@@ -11,8 +11,7 @@ let submit = document.getElementById('submit');
     <td>123456</td>
     <td>01/01/2000</td>
     <td>Yes</td>
-</tr>*/
-localStorage.clear();
+</tr>*/
 let form = document.getElementById('user-form');
 
 const retrieveUserEntries = () => {
