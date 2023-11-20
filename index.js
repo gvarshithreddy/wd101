@@ -12,7 +12,7 @@ let submit = document.getElementById('submit');
     <td>01/01/2000</td>
     <td>Yes</td>
 </tr>*/
-localstorade.clear();
+localStorage.clear();
 let form = document.getElementById('user-form');
 
 const retrieveUserEntries = () => {
