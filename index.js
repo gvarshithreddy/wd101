@@ -42,7 +42,7 @@ const displayUserEntries = () => {
     return row;
     }).join('\n');
 
-    const table = `<table class="table-auto w-full"><tr>
+    const table = `<table class="table-auto w-full block"><tr>
     
     <th class="px-4 py-2">Name</th>
     <th class="px-4 py-2">Email</th>
